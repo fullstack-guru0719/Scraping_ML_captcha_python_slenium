@@ -1,5 +1,7 @@
 # Scraping_ML_captcha_python_slenium
 
+This project was developed using Pyton and selenium.
+
 1. Environment
    1. Install Python Selenium module(pip install selenium)
    2. Install pytesseract(pip install pytesseract)
